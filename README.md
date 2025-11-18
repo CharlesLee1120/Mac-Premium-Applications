@@ -29,29 +29,42 @@
 - **[Craft](https://www.craft.do/)** 🔄 - 原生设计的文档协作工具
 - **[Evernote](https://evernote.com/)** 🔄 - 经典笔记应用
 
+### AI 工具
+- **[豆包](https://www.doubao.com/)** 🌟 - 字节跳动 AI 助手，支持多模态交互
+- **[通义千问](https://tongyi.aliyun.com/)** ⭐ - 阿里云大语言模型，智能对话助手
+- **[腾讯元宝](https://yuanbao.tencent.com/)** - 腾讯 AI 助手，提供智能问答服务
+- **[腾讯混元助手](https://hunyuan.tencent.com/)** - 腾讯混元大模型应用
+- **[Atlas](https://chat.openai.com/)** 🔄 - 由 ChatGPT 支持，随时随地利用 ChatGPT 浏览网页，获取即时答案、智能建议并处理任务。
+- **[Claude](https://claude.ai/new)** 🔄 - Anthropic 的 AI 助手
+
 ---
 
 ## 💻 开发工具
 
 ### 代码编辑器
+- **[IntelliJ IDEA](https://www.jetbrains.com/idea/)** 🌟 🔄 - JetBrains 旗舰 IDE，Java 开发首选
+- **[Xcode](https://developer.apple.com/xcode/)** 🌟 - Apple 官方 IDE，iOS/macOS 开发必备
 - **[Visual Studio Code](https://code.visualstudio.com/)** 🌟 - 强大的开源代码编辑器
 - **[Sublime Text](https://www.sublimetext.com/)** 💰 - 轻量快速的文本编辑器
 - **[Nova](https://nova.app/)** 💰 - macOS 原生代码编辑器
-- **[Zed](https://zed.dev/)** ⭐ - 高性能协作代码编辑器
+- **[Zed](https://zed.dev/)** - 高性能协作代码编辑器
 
 ### 终端工具
-- **[iTerm2](https://iterm2.com/)** 🌟 - 功能强大的终端模拟器
-- **[Warp](https://www.warp.dev/)** ⭐ - 现代化的智能终端
+- **[Termius](https://termius.com/)** 🌟 🔄 - 跨平台 SSH 客户端，支持团队协作
+- **[iTerm2](https://iterm2.com/)** ⭐ - 功能强大的终端模拟器
+- **[Warp](https://www.warp.dev/)** - 现代化的智能终端
 - **[Hyper](https://hyper.is/)** - 基于 Web 技术的终端
 
 ### 数据库管理
+- **[DataGrip](https://www.jetbrains.com/datagrip/)** 🌟 🔄 - JetBrains 专业数据库 IDE，支持多种数据库
 - **[TablePlus](https://tableplus.com/)** 🌟 💰 - 现代化数据库管理工具
 - **[Sequel Ace](https://sequel-ace.com/)** ⭐ - MySQL/MariaDB 数据库管理
 - **[Postico](https://eggerapps.at/postico/)** 💰 - PostgreSQL 客户端
 
 ### API 开发
 - **[Postman](https://www.postman.com/)** 🌟 - API 开发与测试平台
-- **[Paw](https://paw.cloud/)** ⭐ 💰 - 原生 API 工具
+- **[Apifox](https://apifox.com/)** ⭐ - 集成 API 设计、开发、测试的一体化平台
+- **[Paw](https://paw.cloud/)** 💰 - 原生 API 工具
 - **[Insomnia](https://insomnia.rest/)** - 开源 REST 客户端
 
 ---
