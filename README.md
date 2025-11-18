@@ -31,8 +31,8 @@
 
 ### AI 工具
 - **[豆包](https://www.doubao.com/)** 🌟 - 字节跳动 AI 助手，支持多模态交互
-- **[通义千问](https://tongyi.aliyun.com/)** ⭐ - 阿里云大语言模型，智能对话助手
-- **[腾讯元宝](https://yuanbao.tencent.com/)** - 腾讯 AI 助手，提供智能问答服务
+- **[腾讯元宝](https://yuanbao.tencent.com/)** ⭐ - 腾讯 AI 助手，提供智能问答服务
+- **[通义千问](https://tongyi.aliyun.com/)** - 阿里云大语言模型，智能对话助手
 - **[腾讯混元助手](https://hunyuan.tencent.com/)** - 腾讯混元大模型应用
 - **[Atlas](https://chat.openai.com/)** 🔄 - 由 ChatGPT 支持，随时随地利用 ChatGPT 浏览网页，获取即时答案、智能建议并处理任务。
 - **[Claude](https://claude.ai/new)** 🔄 - Anthropic 的 AI 助手
