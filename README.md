@@ -61,7 +61,7 @@
 - **[Sequel Ace](https://sequel-ace.com/)** ⭐ - MySQL/MariaDB 数据库管理
 - **[Postico](https://eggerapps.at/postico/)** 💰 - PostgreSQL 客户端
 
-### API 开发
+### API 管理
 - **[Postman](https://www.postman.com/)** 🌟 - API 开发与测试平台
 - **[Apifox](https://apifox.com/)** ⭐ - 集成 API 设计、开发、测试的一体化平台
 - **[Paw](https://paw.cloud/)** 💰 - 原生 API 工具
@@ -195,6 +195,7 @@
 ### 密码管理
 - **[1Password](https://1password.com/)** 🌟 🔄 - 全平台密码管理器
 - **[Dashlane](https://www.dashlane.com/)** 🌟 🔄 - 智能密码管理器
+- **[Proton Pass](https://proton.me/pass)** ⭐ 🔄 - Proton 推出的加密密码与身份管理工具
 - **[Bitwarden](https://bitwarden.com/)** ⭐ 🔄 - 开源密码管理工具
 - **[KeePassXC](https://keepassxc.org/)** - 开源本地密码管理
 
@@ -207,14 +208,21 @@
 ## 💬 通讯协作
 
 ### 即时通讯
+- **[飞书](https://www.feishu.cn/download)** 🌟 - 字节跳动旗下的企业协作与即时通讯平台
 - **[Telegram](https://telegram.org/)** 🌟 - 注重隐私的即时通讯
 - **[Discord](https://discord.com/)** ⭐ - 社区与语音聊天平台
+- **[WhatsApp](https://www.whatsapp.com/)** ⭐ - 全球广泛使用的即时通讯应用
 - **[Slack](https://slack.com/)** 🔄 - 团队协作通讯工具
 - **[Microsoft Teams](https://www.microsoft.com/microsoft-teams/)** 🔄 - 企业协作平台
+- **[钉钉](https://www.dingtalk.com/)** - 阿里巴巴企业沟通与协作工具
+- **[企业微信](https://work.weixin.qq.com/)** - 腾讯企业级协作与即时通讯
 
 ### 邮件客户端
-- **[Spark](https://sparkmailapp.com/)** 🌟 - 智能邮件客户端
-- **[Mimestream](https://mimestream.com/)** ⭐ 💰 - 原生 Gmail 客户端
+- **[Proton Mail](https://proton.me/mail)** 🌟 - 注重隐私与安全的加密邮件服务
+- **[Apple Mail](https://www.apple.com/macos/mail/)** ⭐ - macOS 原生邮件客户端
+- **[Outlook](https://www.microsoft.com/microsoft-365/outlook/mac-outlook)** ⭐ - 微软生态下的多平台邮件客户端
+- **[Spark](https://sparkmailapp.com/)** - 智能邮件客户端
+- **[Mimestream](https://mimestream.com/)** 💰 - 原生 Gmail 客户端
 - **[Airmail](https://airmailapp.com/)** 💰 - 功能丰富的邮件应用
 - **[Canary Mail](https://canarymail.io/)** 💰 - 注重安全的邮件客户端
 
