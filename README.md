@@ -178,7 +178,7 @@
 - **[The Unarchiver](https://theunarchiver.com/)** - 万能解压工具
 - **[BetterZip](https://macitbetter.com/)** 💰 - 功能丰富的压缩工具
 
-### 云存储
+### 云存储与网盘
 - **[OneDrive](https://www.microsoft.com/microsoft-365/onedrive/)** 🌟 🔄 - Microsoft 云存储，中国大陆无墙访问
 - **[Dropbox](https://www.dropbox.com/)** ⭐ 🔄 - 经典云存储服务
 - **[iCloud Drive](https://www.icloud.com/)** 🔄 - Apple 原生云服务
