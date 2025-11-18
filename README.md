@@ -139,8 +139,11 @@
 ## 🌐 网络工具
 
 ### 浏览器
-- **[Arc](https://arc.net/)** 🌟 - 创新的现代浏览器
-- **[Safari](https://www.apple.com/safari/)** ⭐ - macOS 原生浏览器
+- **[Google Chrome](https://www.google.com/chrome/)** 🌟 - 全球最流行的浏览器
+- **[Safari](https://www.apple.com/safari/)** 🌟 - macOS 原生浏览器，性能优异
+- **[Arc](https://arc.net/)** ⭐ - 创新的现代浏览器
+- **[Firefox](https://www.mozilla.org/firefox/)** - 开源隐私浏览器
+- **[Opera](https://www.opera.com/)** - 内置 VPN 的浏览器
 - **[Brave](https://brave.com/)** - 注重隐私的浏览器
 - **[Microsoft Edge](https://www.microsoft.com/edge)** - 基于 Chromium 的浏览器
 
