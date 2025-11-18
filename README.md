@@ -133,6 +133,7 @@
 ### 剪贴板管理
 - **[Paste](https://pasteapp.io/)** 🌟 💰 - 优雅的剪贴板历史管理
 - **[Maccy](https://maccy.app/)** ⭐ - 轻量级剪贴板管理器
+- **[PasteNow](https://pastenow.app/)** 💰 - 智能剪贴板管理工具
 - **[CopyClip](https://fiplab.com/apps/copyclip-for-mac)** 💰 - 简洁的剪贴板工具
 
 ---
@@ -177,10 +178,14 @@
 - **[BetterZip](https://macitbetter.com/)** 💰 - 功能丰富的压缩工具
 
 ### 云存储
-- **[Dropbox](https://www.dropbox.com/)** 🌟 🔄 - 经典云存储服务
-- **[iCloud Drive](https://www.icloud.com/)** ⭐ 🔄 - Apple 原生云服务
+- **[OneDrive](https://www.microsoft.com/microsoft-365/onedrive/)** 🌟 🔄 - Microsoft 云存储，中国大陆无墙访问
+- **[Dropbox](https://www.dropbox.com/)** ⭐ 🔄 - 经典云存储服务
+- **[iCloud Drive](https://www.icloud.com/)** 🔄 - Apple 原生云服务
 - **[Google Drive](https://www.google.com/drive/)** 🔄 - Google 云端硬盘
-- **[OneDrive](https://www.microsoft.com/microsoft-365/onedrive/)** 🔄 - Microsoft 云存储
+- **[阿里云盘](https://www.aliyundrive.com/)** 🔄 - 阿里巴巴云存储服务
+- **[百度网盘](https://pan.baidu.com/)** 🔄 - 百度云存储服务
+- **[夸克网盘](https://pan.quark.cn/)** ⭐ 🔄 - 夸克云存储服务
+- **[Mega](https://mega.nz/)** 🔄 - 注重隐私的加密云存储
 
 ---
 
@@ -188,8 +193,8 @@
 
 ### 密码管理
 - **[1Password](https://1password.com/)** 🌟 🔄 - 全平台密码管理器
+- **[Dashlane](https://www.dashlane.com/)** 🌟 🔄 - 智能密码管理器
 - **[Bitwarden](https://bitwarden.com/)** ⭐ 🔄 - 开源密码管理工具
-- **[Dashlane](https://www.dashlane.com/)** 🔄 - 智能密码管理器
 - **[KeePassXC](https://keepassxc.org/)** - 开源本地密码管理
 
 ### 加密工具
