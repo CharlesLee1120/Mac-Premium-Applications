@@ -150,9 +150,11 @@
 - **[Transmission](https://transmissionbt.com/)** ⭐ - 轻量级 BT 客户端
 
 ### VPN 与代理
-- **[ClashX](https://github.com/yichengchen/clashX)** 🌟 - 基于 Clash 的代理工具
-- **[Surge](https://nssurge.com/)** ⭐ 💰 - 强大的网络调试工具
-- **[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)** 💰 - iOS/macOS 代理工具
+- **[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)** 🌟 💰 - 功能强大的代理工具，支持多种协议
+- **[ClashX Pro](https://github.com/clashdownload/ClashX_Pro)** ⭐ - 基于 Clash 的代理工具
+- **[Surge](https://nssurge.com/)** 💰 - 强大的网络调试工具
+- **[Stash](https://stash.ws/)** 💰 - 基于规则的代理工具，支持策略组
+- **[Hiddify](https://hiddify.com/)** - 开源代理客户端，支持多种协议
 
 ---
 
@@ -164,8 +166,10 @@
 - **[Commander One](https://mac.eltima.com/file-manager.html)** 💰 - 双面板文件管理器
 
 ### 压缩工具
-- **[Keka](https://www.keka.io/)** 🌟 - 开源压缩解压工具
-- **[The Unarchiver](https://theunarchiver.com/)** ⭐ - 万能解压工具
+- **[BandiZip](https://www.bandisoft.com/bandizip/mac/)** 🌟 - 功能强大的压缩解压工具，支持多种格式
+- **[全能解压](https://apps.apple.com/cn/app/全能解压/id1581801463)** ⭐ - 简洁易用的解压缩工具
+- **[Keka](https://www.keka.io/)** - 开源压缩解压工具
+- **[The Unarchiver](https://theunarchiver.com/)** - 万能解压工具
 - **[BetterZip](https://macitbetter.com/)** 💰 - 功能丰富的压缩工具
 
 ### 云存储
