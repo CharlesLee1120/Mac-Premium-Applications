@@ -19,8 +19,8 @@
 
 ### 任务管理
 - **[Things 3](https://culturedcode.com/things/)** 🌟 💰 - 优雅的 GTD 任务管理工具
-- **[OmniFocus](https://www.omnigroup.com/omnifocus)** 💰 - 强大的项目管理应用
 - **[Todoist](https://todoist.com/)** ⭐ 🔄 - 跨平台任务管理工具
+- **[OmniFocus](https://www.omnigroup.com/omnifocus)** 💰 - 强大的项目管理应用
 - **[TickTick](https://ticktick.com/)** 🔄 - 功能全面的待办事项应用
 
 ### 笔记与知识管理
@@ -99,8 +99,8 @@
 
 ### 音频处理
 - **[Logic Pro](https://www.apple.com/logic-pro/)** 🌟 💰 - 专业音乐制作软件
-- **[GarageBand](https://www.apple.com/mac/garageband/)** - 入门级音乐创作
 - **[Audacity](https://www.audacityteam.org/)** ⭐ - 开源音频编辑器
+- **[GarageBand](https://www.apple.com/mac/garageband/)** - 入门级音乐创作
 - **[Fission](https://rogueamoeba.com/fission/)** 💰 - 快速音频编辑工具
 
 ### 播放器
@@ -131,8 +131,8 @@
 
 ### 剪贴板管理
 - **[Paste](https://pasteapp.io/)** 🌟 💰 - 优雅的剪贴板历史管理
-- **[CopyClip](https://fiplab.com/apps/copyclip-for-mac)** 💰 - 简洁的剪贴板工具
 - **[Maccy](https://maccy.app/)** ⭐ - 轻量级剪贴板管理器
+- **[CopyClip](https://fiplab.com/apps/copyclip-for-mac)** 💰 - 简洁的剪贴板工具
 
 ---
 
@@ -146,8 +146,8 @@
 
 ### 下载工具
 - **[Downie](https://software.charliemonroe.net/downie/)** 🌟 💰 - 视频下载工具
-- **[Folx](https://mac.eltima.com/download-manager.html)** 💰 - 下载管理器
 - **[Transmission](https://transmissionbt.com/)** ⭐ - 轻量级 BT 客户端
+- **[Folx](https://mac.eltima.com/download-manager.html)** 💰 - 下载管理器
 
 ### VPN 与代理
 - **[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)** 🌟 💰 - 功能强大的代理工具，支持多种协议
@@ -174,9 +174,9 @@
 
 ### 云存储
 - **[Dropbox](https://www.dropbox.com/)** 🌟 🔄 - 经典云存储服务
+- **[iCloud Drive](https://www.icloud.com/)** ⭐ 🔄 - Apple 原生云服务
 - **[Google Drive](https://www.google.com/drive/)** 🔄 - Google 云端硬盘
 - **[OneDrive](https://www.microsoft.com/microsoft-365/onedrive/)** 🔄 - Microsoft 云存储
-- **[iCloud Drive](https://www.icloud.com/)** ⭐ 🔄 - Apple 原生云服务
 
 ---
 
@@ -204,9 +204,9 @@
 
 ### 邮件客户端
 - **[Spark](https://sparkmailapp.com/)** 🌟 - 智能邮件客户端
+- **[Mimestream](https://mimestream.com/)** ⭐ 💰 - 原生 Gmail 客户端
 - **[Airmail](https://airmailapp.com/)** 💰 - 功能丰富的邮件应用
 - **[Canary Mail](https://canarymail.io/)** 💰 - 注重安全的邮件客户端
-- **[Mimestream](https://mimestream.com/)** ⭐ 💰 - 原生 Gmail 客户端
 
 ---
 
@@ -220,8 +220,8 @@
 
 ### 翻译工具
 - **[Bob](https://bobtranslate.com/)** 🌟 - 开源翻译与 OCR 工具
-- **[Eudic](https://www.eudic.net/)** 💰 - 欧路词典
 - **[DeepL](https://www.deepl.com/app/)** ⭐ 🔄 - 高质量机器翻译
+- **[Eudic](https://www.eudic.net/)** 💰 - 欧路词典
 
 ---
 
@@ -235,9 +235,9 @@
 
 ### 时间管理
 - **[Timing](https://timingapp.com/)** 🌟 💰 - 自动时间追踪工具
+- **[Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html)** ⭐ 💰 - 番茄工作法计时器
 - **[RescueTime](https://www.rescuetime.com/)** 🔄 - 时间管理与分析
 - **[Focus](https://heyfocus.com/)** 💰 - 专注力管理工具
-- **[Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html)** ⭐ 💰 - 番茄工作法计时器
 
 ### 菜单栏管理
 - **[Bartender](https://www.macbartender.com/)** 🌟 💰 - 菜单栏图标管理工具
