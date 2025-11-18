@@ -94,6 +94,7 @@
 ### 视频编辑
 - **[Final Cut Pro](https://www.apple.com/final-cut-pro/)** 🌟 💰 - 专业视频编辑软件
 - **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** ⭐ - 专业调色与剪辑
+- **[剪映](https://www.capcut.cn/)** ⭐ - 字节跳动旗下视频编辑工具，简单易用
 - **[ScreenFlow](https://www.telestream.net/screenflow/)** 💰 - 屏幕录制与视频编辑
 - **[Compressor](https://www.apple.com/final-cut-pro/compressor/)** 💰 - 视频格式转换工具
 
