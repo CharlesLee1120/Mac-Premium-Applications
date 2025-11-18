@@ -121,6 +121,7 @@
 ### 系统监控
 - **[iStat Menus](https://bjango.com/mac/istatmenus/)** 🌟 💰 - 系统监控菜单栏工具
 - **[CleanMyMac X](https://macpaw.com/cleanmymac)** ⭐ 💰 - 系统清理与优化
+- **[Stats](https://github.com/exelban/stats)** - 开源系统监控工具，显示 CPU、内存、网络等信息
 - **[DaisyDisk](https://daisydiskapp.com/)** 💰 - 磁盘空间分析工具
 - **[Sensei](https://sensei.app/)** 💰 - 系统性能监控与优化
 
