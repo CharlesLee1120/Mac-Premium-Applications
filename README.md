@@ -169,9 +169,9 @@
 - **[Commander One](https://mac.eltima.com/file-manager.html)** 💰 - 双面板文件管理器
 
 ### 解压缩工具
-- **[BandiZip](https://www.bandisoft.com/bandizip/mac/)** 🌟 - 功能强大的压缩解压工具，支持多种格式
-- **[Unzip One](https://apps.apple.com/cn/app/全能解压/id1581801463)** ⭐ - 中文名：全能解压，简洁易用的解压缩工具
-- **[Keka](https://www.keka.io/)** - 开源压缩解压工具
+- **[BandiZip](https://www.bandisoft.com/bandizip/mac/)** 🌟 💰 - 功能强大的压缩解压工具，支持多种格式
+- **[Keka](https://www.keka.io/)** 🌟 💰 - 开源压缩解压工具
+- **[Unzip One](https://apps.apple.com/us/app/unzip-one-rar-zip-extractor/id1127253508)** ⭐ - 中文名：全能解压，简洁易用的解压缩工具
 - **[The Unarchiver](https://theunarchiver.com/)** - 万能解压工具
 - **[BetterZip](https://macitbetter.com/)** 💰 - 功能丰富的压缩工具
 
