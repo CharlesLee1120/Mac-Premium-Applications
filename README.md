@@ -138,6 +138,10 @@
 - **[PasteNow](https://pastenow.app/)** 💰 - 智能剪贴板管理工具
 - **[CopyClip](https://fiplab.com/apps/copyclip-for-mac)** 💰 - 简洁的剪贴板工具
 
+### 输入法
+- **[Apple 输入法](https://support.apple.com/zh-cn/guide/mac-help/mchlp1406/mac)** 🌟 - macOS 原生输入法，深度整合系统与多语言体验
+- **[微信输入法](https://z.weixin.qq.com/)** ⭐ - 腾讯推出的智能输入法，支持云同步、表情输入，且无广告
+
 ---
 
 ## 🌐 网络工具
