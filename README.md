@@ -142,6 +142,9 @@
 - **[Apple 输入法](https://support.apple.com/zh-cn/guide/mac-help/mchlp1406/mac)** 🌟 - macOS 原生输入法，深度整合系统与多语言体验
 - **[微信输入法](https://z.weixin.qq.com/)** ⭐ - 腾讯推出的智能输入法，支持云同步、表情输入，且无广告
 
+### 电池管理
+- **[AlDente Pro](https://apphousekitchen.com/)** ⭐ 💰 - 专业电池维护工具，自定义充电上限以延长 MacBook 电池寿命
+
 ---
 
 ## 🌐 网络工具
@@ -213,10 +216,12 @@
 ## 💬 通讯协作
 
 ### 即时通讯
-- **[飞书](https://www.feishu.cn/download)** 🌟 - 字节跳动旗下的企业协作与即时通讯平台
 - **[Telegram](https://telegram.org/)** 🌟 - 注重隐私的即时通讯
 - **[Discord](https://discord.com/)** ⭐ - 社区与语音聊天平台
 - **[WhatsApp](https://www.whatsapp.com/)** ⭐ - 全球广泛使用的即时通讯应用
+
+### 协作办公
+- **[飞书](https://www.feishu.cn/download)** 🌟 - 字节跳动旗下的企业协作与即时通讯平台
 - **[Slack](https://slack.com/)** 🔄 - 团队协作通讯工具
 - **[Microsoft Teams](https://www.microsoft.com/microsoft-teams/)** 🔄 - 企业协作平台
 - **[钉钉](https://www.dingtalk.com/)** - 阿里巴巴企业沟通与协作工具
