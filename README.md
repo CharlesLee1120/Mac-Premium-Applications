@@ -49,6 +49,7 @@
 - **[Sublime Text](https://www.sublimetext.com/)** 💰 - 轻量快速的文本编辑器
 - **[Nova](https://nova.app/)** 💰 - macOS 原生代码编辑器
 - **[Zed](https://zed.dev/)** - 高性能协作代码编辑器
+- **[Google Antigravity](https://antigravity.google/)** 🌟 - Google Deepmind 推出的强大的 AI 编程助手
 
 ### 终端工具
 - **[Termius](https://termius.com/)** 🌟 🔄 - 跨平台 SSH 客户端，支持团队协作
