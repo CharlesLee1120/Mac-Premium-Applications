@@ -196,6 +196,9 @@
 - **[夸克网盘](https://pan.quark.cn/)** ⭐ 🔄 - 夸克云存储服务
 - **[Mega](https://mega.nz/)** 🔄 - 注重隐私的加密云存储
 
+### 文件传输
+- **[LocalSend](https://localsend.org/)** 🌟 - 开源跨平台局域网文件传输工具，AirDrop 的最佳替代品
+
 ---
 
 ## 🔐 安全与隐私
